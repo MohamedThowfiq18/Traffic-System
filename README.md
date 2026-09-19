@@ -91,3 +91,6 @@ By default, the app is configured to talk to the Spring Boot REST server on `loc
 - **Traffic Police Mobile Emulator**: Search vehicle plates, view documentation details with visual status badges, and pay challans or create manual violations.
 - **Thermal Receipt printing**: View and print a beautifully formatted traffic violation ticket using the browser's printer system.
 - **Image Upload & Analysis**: Upload custom motorcycle photos to run the scanning sequence with HUD overlays.
+
+
+DataSet : https://www.kaggle.com/datasets/bhanageviraj/indian-traffic-e-challan-daily-dataset-20152026
